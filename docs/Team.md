@@ -1,6 +1,7 @@
 This project is supported by team members from Golden Gate University School of Law, UCLA School of Law, Criminal Justice Program, Code for America and Hack for LA.
 
 The team includes
+
 - Jyoti Nanda, GGU School of Law
 
 - Alicia Virani, UCLA School of Law, Criminal Justice Program
