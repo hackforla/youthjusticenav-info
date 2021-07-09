@@ -1,5 +1,3 @@
-## The Intake Process
-
 If you are temporarily detained and not released home or diverted, then you will be taken to
 juvenile hall to meet with a probation officer.
 You will then be interviewed by the probation department. This interview is called an intake.
@@ -10,10 +8,11 @@ have a lawyer present with you. However, the intake interview SHOULD NOT BE abou
 guilt or fault.
 
 The Probation Intake Unit can do one of the following things:
-- Release you without the need to follow-up .
-- Release you with a written promise to appear in court.
+
+- Release you without the need to follow-up
+- Release you with a written promise to appear in court
 - Refer you to a program or services
-- Place you on informal probation (define here).
+- Place you on informal probation (define here)
 - Begin the process of taking your case through the court system
 
 _*Note: Whether or not you are allowed to go home after the intake interview depends on how
