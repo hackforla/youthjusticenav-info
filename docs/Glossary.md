@@ -1,7 +1,5 @@
 ## Here are a list of terms used throughout this website
 
-
-- 
 - Adjudication: An adjudication is when you go to court and the juvenile
 court judge decides you broke the law. It is not a conviction.
 
