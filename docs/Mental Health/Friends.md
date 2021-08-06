@@ -1,0 +1,2 @@
+#### Being Around Friends
+Being around people who bring you joy, love, and fun is a good way to remove yourself from negativity. When something’s happening it can help talk to those who are supportive and good for your well being. People who are in your daily life can keep you grounded and give you advice from their perspective. Talking to a friend about issues can also lead to a better understanding about what is going on.
