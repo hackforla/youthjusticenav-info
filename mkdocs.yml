@@ -15,5 +15,6 @@ plugins:
 nav:
     - Home: index.md
     - Help Me: Help-Me/index.md
+      - Intake: Intake/index.md
     - Resources: Resources/index.md
     - About Us: About-Us/index.md
