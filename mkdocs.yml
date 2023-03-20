@@ -1,3 +1,6 @@
 site_name: Youth Justice Nav
 theme:
   name: material
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
