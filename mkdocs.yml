@@ -9,3 +9,6 @@ theme:
     - toc.follow
     - navigation.path
     - toc.integrate
+plugins:
+    - search
+    - awesome-pages
