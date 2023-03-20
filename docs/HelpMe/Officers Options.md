@@ -48,8 +48,11 @@ Sylmar, CA 91342
 
 ## Send you to Citation Diversion
 Starting in 2012, all law enforcement agencies in LA County were instructed to cite youths with non-traffic infraction tickets and low-level misdemeanor cases (such as trespassing, riding your skateboard without a helmet, and marijuana-related offenses) to the Probation Department’s Citation Diversion Program. 
+
 If you are referred to Citation Diversion, you should receive a notification letter in the mail with your hearing date, ticket number, and where to appear. The program is housed in only one location in Van Nuys, where a single probation officer hears all cases. The most likely outcome of these hearings are fines or community service hours. You are not entitled to a lawyer at these hearings, but there are certain non profits you can reach out to who may be able to represent you. 
+
 You can contact the Public Defender’s office for any Citation Diversion case charged as misdemeanor, not an infraction; Public Counsel if you are system involved (foster, delinquency, or probation youth) at 213-385-2977 ext. 500; or UCLA Law Criminal Justice Program’s Youth Justice Policy Lead Leah Gasser-Ordaz at 213-373-3163. 
+
 If you do not show up to your hearing you will be cited with a “Failure to Appear'' charge and your driver’s license may be suspended, so it is very important to show up to your hearing. If you are innocent and want to fight the ticket you will likely come back again another month and have to present your case. 
 
 ## Bring you to Juvenile Hall
