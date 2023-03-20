@@ -12,7 +12,7 @@ theme:
 plugins:
     - search
     - awesome-pages
-  nav:
+nav:
     - Home: index.md
     - Help Me: Help-Me/index.md
     - Resources: Resources/index.md
