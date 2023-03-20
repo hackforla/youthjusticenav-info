@@ -1,4 +1,4 @@
-# About the Youth Justice Navigator Project
+# About
 
 ## Goal
 The Youth Justice Navigator’s goal is to create a tool for youth to navigate the Juvenile Justice System in Los Angeles County. Through this tool, we will educate and provide resources for youth to access information that is relevant in dealing with the criminal justice system. 
