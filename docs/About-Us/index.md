@@ -10,13 +10,13 @@ The project was first launched through the Youth & Justice Clinic at UCLA School
 ## Contributors
 This project would not be possible without dedicated organizations and people passionate about youth justice
 See the Youth Justice Navigator
-- [Advisory Board](Contributors/Advisory-Board.md)
-- [Project Team](Contributors/Project-Team.md)
-- [Partners](Partners.md)
+* [Advisory Board](Contributors/Advisory-Board.md)
+* [Project Team](Contributors/Project-Team.md)
+* [Partners](Partners.md)
 
 ## Contact Us
 You can help us move towards justice equality for all youth
-- [Support](Contact-Us/Support.md)
-- [Volunteer](Contact-Us/(Contributors/Advisory-Board.md).md)
+* [Support](Contact-Us/Support.md)
+* [Volunteer](Contact-Us/(Contributors/Advisory-Board.md).md)
 
 For other inquires, use our [contact form]
