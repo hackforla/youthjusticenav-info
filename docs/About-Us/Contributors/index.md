@@ -3,5 +3,5 @@ This project would not be possible without dedicated organizations and people pa
 See the Youth Justice Navigator
 
 ## Partners
-- Advisory Board
-- Project Team
+## Advisory Board
+## Project Team
