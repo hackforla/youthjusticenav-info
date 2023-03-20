@@ -13,7 +13,7 @@ plugins:
     - search
     - awesome-pages
 nav:
-  - Home: index.md
-  - Help Me: Help-Me/index.md
-  - Resources: Resources/index.md
-  - About Us: About-Us/index.md
+  - Home: docs/index.md
+  - Help Me: docs/Help-Me/index.md
+  - Resources: docs/Resources/index.md
+  - About Us: docs/About-Us/index.md
