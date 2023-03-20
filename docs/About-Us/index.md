@@ -15,7 +15,7 @@ The project was first launched through the Youth & Justice Clinic at UCLA School
 This project would not be possible without dedicated organizations and people passionate about youth justice
 See the Youth Justice Navigator
 ### Partners
-### [Advisory Board](/About-Us/Contributors/Advisory-Board)
+### [Advisory Board](/About-Us/Contributors/Advisory-Board.md)
 ### Project Team
 
 ## Contact Us
