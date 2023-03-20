@@ -10,5 +10,3 @@ theme:
     - navigation.tabs.sticky
     - footnotes
     - navigation.top
-    - toc.follow
-    - navigation.path
