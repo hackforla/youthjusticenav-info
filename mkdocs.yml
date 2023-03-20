@@ -8,3 +8,4 @@ theme:
     - navigation.top
     - toc.follow
     - navigation.path
+    - toc.integrate
